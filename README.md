@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./header.gif" alt="Rafaela Santos · Inteligência de Mercado e Análise de Dados" width="100%">
 
-<p align="center"><em>Por trás de todo resultado existe uma pergunta que ainda vale a pena fazer.</em></p>
+<p align="center"><em>Por trás de todo resultado existe a pergunta de sucesso.</em></p>
 
 <br>
 
